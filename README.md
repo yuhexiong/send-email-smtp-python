@@ -4,7 +4,7 @@ Use smtplib to send email.
 
 ## Overview
 
-- Language: Python v3.19
+- Language: Python v3.12
 
 ## ENV
 
